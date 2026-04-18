@@ -29,3 +29,6 @@ This makes the tool easier to interpret quickly.
 
 ### Why this could improve decision-making
 This change could improve decision-making by reducing the time needed to understand player conditions, making the results easier for non-technical users to follow, and helping coaches make faster decisions before games and practices. This enhancement focuses on communication and usability, which are important for analytics adoption in sports organizations.
+
+## Prototype Evaluation
+The prototype enhancement should be considered for integration into the main project, but only after feedback from decision makers. The most important feedback would include whether coaches find the dashboard easy to understand, whether the risk categories are actionable in real game situations, and whether the tool improves confidence in decision-making. If decision makers find the tool confusing or not aligned with their workflow, further refinement would be necessary before adoption.
