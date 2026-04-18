@@ -15,5 +15,20 @@ Coaches and performance staff would use this dashboard before games and practice
 ## Connection to Chapter 7
 This idea currently represents the Creative Phase of innovation. At this stage, the focus is on clearly defining the problem, proposing a possible solution, and identifying how the idea could support decision-making. No testing or refinement has been done yet, which means the idea still needs to be prototyped and evaluated before adoption.
 
+
+## Prototype Enhancement
+The prototype introduces a color-coded risk visualization system to improve how information is presented.
+
+### What is being changed
+Instead of listing player workload data in text or table form, the dashboard will now use simple color indicators:
+- Green for Low Risk
+- Yellow for Moderate Risk
+- Red for High Risk
+
+This makes the tool easier to interpret quickly.
+
+### Why this could improve decision-making
+This change could improve decision-making by reducing the time needed to understand player conditions, making the results easier for non-technical users to follow, and helping coaches make faster decisions before games and practices. This enhancement focuses on communication and usability, which are important for analytics adoption in sports organizations.
+
 ## Prototype Evaluation
 The prototype enhancement should be considered for integration into the main project, but only after feedback from decision makers. The most important feedback would include whether coaches find the dashboard easy to understand, whether the risk categories are actionable in real game situations, and whether the tool improves confidence in decision-making. If decision makers find the tool confusing or not aligned with their workflow, further refinement would be necessary before adoption.
