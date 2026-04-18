@@ -32,3 +32,9 @@ This change could improve decision-making by reducing the time needed to underst
 
 ## Prototype Evaluation
 The prototype enhancement should be considered for integration into the main project, but only after feedback from decision makers. The most important feedback would include whether coaches find the dashboard easy to understand, whether the risk categories are actionable in real game situations, and whether the tool improves confidence in decision-making. If decision makers find the tool confusing or not aligned with their workflow, further refinement would be necessary before adoption.
+
+## Integration Decision
+The prototype enhancement was integrated into the main project because it improves clarity and usability for decision makers. The color-coded system makes the dashboard easier to interpret quickly, which increases the likelihood that coaches and performance staff will actually use it.
+
+## Reflection on Innovation and Version Control
+Branches support low-risk experimentation because they allow analytics teams to test new ideas without disrupting the main version of a project. This makes it easier to explore improvements, revise concepts, and prototype new approaches safely. GitHub helps analytics ideas gain traction with decision makers by making the project visible, organized, and easy to update over time. It creates a clear record of how the idea develops, which supports trust and communication across the organization. This workflow aligns with Chapter 7 because it reflects the movement from creative thinking to prototyping, evaluation, and eventual integration. GitHub serves as a practical tool for managing innovation in a structured and collaborative way.
