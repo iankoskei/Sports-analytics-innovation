@@ -14,3 +14,6 @@ Coaches and performance staff would use this dashboard before games and practice
 
 ## Connection to Chapter 7
 This idea currently represents the Creative Phase of innovation. At this stage, the focus is on clearly defining the problem, proposing a possible solution, and identifying how the idea could support decision-making. No testing or refinement has been done yet, which means the idea still needs to be prototyped and evaluated before adoption.
+
+## Prototype Evaluation
+The prototype enhancement should be considered for integration into the main project, but only after feedback from decision makers. The most important feedback would include whether coaches find the dashboard easy to understand, whether the risk categories are actionable in real game situations, and whether the tool improves confidence in decision-making. If decision makers find the tool confusing or not aligned with their workflow, further refinement would be necessary before adoption.
